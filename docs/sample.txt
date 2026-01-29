@@ -1,0 +1,45 @@
+# Espresso Drinks
+
+Latte: Espresso with steamed milk and a thin layer of foam. Ratio is 1:3 (espresso to milk). Mild, creamy taste.
+
+Cappuccino: Espresso with equal parts steamed milk and foam. Ratio is 1:1:1. Stronger coffee flavor than latte, more foam.
+
+Americano: Espresso diluted with hot water. Similar strength to drip coffee but different flavor profile.
+
+Macchiato: Espresso "stained" with a small amount of foam. Strong espresso taste with just a touch of milk.
+
+Mocha: Espresso with chocolate and steamed milk. Sweeter, dessert-like coffee drink.
+
+Flat White: Similar to latte but with microfoam and stronger espresso flavor. Originated in Australia/New Zealand.
+
+# Brewing Methods
+
+Pour-over: Hot water poured over grounds in a filter. Clean, bright flavor. Takes 3-4 minutes.
+
+French Press: Grounds steeped in hot water, then pressed. Full-bodied, rich flavor. Takes 4 minutes.
+
+Espresso: High pressure forces hot water through fine grounds. Concentrated, intense flavor. Takes 25-30 seconds.
+
+Cold Brew: Grounds steeped in cold water for 12-24 hours. Smooth, low acidity.
+
+Drip Coffee: Automatic machine drips hot water over grounds. Convenient, consistent results.
+
+# Roast Levels
+
+Light Roast: Light brown color. Bright acidity, fruity notes. Highest caffeine content.
+
+Medium Roast: Medium brown. Balanced flavor, some acidity. Most popular choice.
+
+Dark Roast: Dark brown to black. Bold, smoky, bitter-sweet. Lower caffeine than light roast.
+
+# Coffee Basics
+
+Caffeine: Average cup has 80-100mg. Espresso shot has about 63mg but is more concentrated.
+
+Decaf: Not caffeine-free, contains 2-15mg per cup. Made by removing caffeine from beans before roasting.
+
+Grind Size: Finer grind for espresso, coarser for French press. Wrong grind causes over or under extraction.
+
+Water Temperature: Ideal is 195-205°F (90-96°C). Too hot burns coffee, too cold under-extracts.
+
+Storage: Keep beans in airtight container at room temperature. Use within 2-4 weeks of roasting.
